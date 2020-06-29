@@ -15,3 +15,5 @@ Joe Satriani said:
 > Allan Holdsworth changed the way people play the electric guitar, 
 > both musically and physically. 
 > He is a true genius.
+
+<img src="http://waytoofarout.github.io/AH.png"/>
